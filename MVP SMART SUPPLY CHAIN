@@ -1,0 +1,823 @@
+MVP OF THE ITALIAN HOP SMART SUPPLY CHAIN
+Enterprise Application Integration as hybrid multi-platforms that combine data
+integration platforms and applications on premise or in the cloud with iPaaS, iSaaS and
+API management platforms.
+MDM-Master Data Management is a technology enabled discipline, a program where
+business and IT work together to ensure the quality, accuracy, consistency,
+responsibility of the master data of an ecosystem, in our case that of supply chains.
+Made in Italy production; master data is any asset that defines the company's business
+(it can be data relating to products, customers, plants, processes, farms.
+An overall vision is needed, of an integrated biolonic ecosystem, where master data does
+not in itself ensure the competitiveness of a production ecosystem, but its lack certainly
+makes it very difficult if not impossible to achieve effective application integration.
+From the very moment in which the second application was introduced in a company,
+the problem of its integration with the one already installed arose and over time the
+issue of application integration was addressed in different ways.
+We have gone from direct integration (with connectors that allow different applications
+to communicate, using network protocols such as TCP or HTTP) to the creation of
+dedicated interfaces (EDI etc.) which, although motivated by business logic, complicate
+the interface application and data interface with negative impacts on usability and agility.
+We then tried to rationalize this 'spaghetti integration' with service middleware: from the
+ESB-Enterprise Service Bus to a new architectural paradigm, SOA-Service Oriented
+Architecture today in the era of low code and internet of behavior is already exceeded.
+But all this today is no longer sufficient or easily manageable, because especially in a
+moment of uncertainty like the present one, companies are facing new challenges that
+have a direct impact on their business model.
+SOA was an excellent software engineering solution, but it is too cumbersome, expensive
+and above all not able to meet that essential requirement of speed that can determine
+the success of a business project, especially if it must be agile to a production chain such
+as that of hops which in 2021 wants to explode as a proposal for a new model of truly
+sustainable economy.
+The answer to simplify this complexity comes from new integration environments that
+can be used on consumption such as the iPaaS (integration Platform as a Service) and
+from the diffusion of APIs, which represent a set of functionalities exposed by an
+application, in practice a standard way to query and access to data.
+APIs are, on the one hand, the technology of business intelligence that allow you to do
+what has always been done more quickly and on the other hand they open up a very
+powerful potential for changing business models because by exposing APIs, typical
+processes of transformation are enabled. digital: easy integration into an extended chain
+with suppliers and business partners; models based on multi-channeling are concretized,
+making application services available on all devices; or, again, the birth of new economic
+subjects is enabled because the development of new services to third parties is made
+possible.
+And here the API is transformed from a “trivial” integrated plug-in to a transformation
+tool; but in order not to fall into the confusion of “Buffetti integration” (the APIs in turn
+evolve and therefore it becomes essential, for example, to manage their versioning), API
+management platforms are indispensable.
+INNOVABILITA creates iSaaS solutions, cloud platforms to enable "Citizen Integration"
+that is the possibility for some business (or consumer) users to take care of the
+integration of some applications, already used in the cloud (for example MailChimp, an
+email marketing system, and Salesforce CRM). These are "basic" integrations, not
+complex and packaged, but which can enable the rapid development of new services:
+just what today the web 3.0 business requires with multidisciplinary knowledge which, in
+order to materialize, must include a transversality of digital and transversal skills a
+widespread ecosystem.
+The evolution of different approaches to integration and platform engineering today
+pushes us to co-create Enterprise Application Integration solutions as hybrid
+multi-platforms that combine: data integration platforms and on-premise applications
+with iPaaS, iSaaS and platforms of API management. A crucial role in all this assumes
+data governance as data represents the vital cell of every application and it is impossible
+to develop an application integration strategy if we do not start from data that is not
+manipulated (data integrity), meaningful and usable in applications (data consistency);
+therefore, to address the issue, one cannot ignore Master Data Management (MDM).
+SMARTSUPPLYCHAIN® represents an Enterprise Application Integration with a cloud
+service that offers IT a platform for the integration of data, applications, services and
+processes. INNOVABILITA is presented on the Italian market with an EAI solution
+favoring the functionality of the multi-platform to cover an exponential number of needs
+(for example, they are integrating the API management) of an entire ecosystem rather
+than a single company. The advantage offered by our process innovation is the usability
+of the tools for use with model-based development tools and a portfolio of pre-packaged,
+low code integrations: ideal multi-platforms to support cloud-to-cloud integration - l ''
+multicloud approach is one of the distinctive trends in the evolution of the hybrid cloud -
+and mobile to cloud and also by providing more secure and intuitive development
+environments than on premise ones, they allow you to more easily realize what is called
+ad hoc integration, ie the integration of specific projects, such as the one on the hops
+supply chain.
+The API management platform allows you to create, govern and distribute APIs,
+managing their versioning, availability and defining their limits of use: the purpose of our
+API management solution is to monitor, optimize and secure the use of APIs through
+access control, application of security policies, routing, caching, analysis and monitoring
+tools to support the monetization of exposed data and services allowing you to manage
+transactions, prices, consumption metering, billing, key provisioning access or token: the
+launch of an Italian model of TOKENOMICS.
+The scenarios of use of an API management solution can be very different based on the
+ordering of the reference state: in Italy we decided to carry out a precise assessment of
+the needs of a SMART FARMING SYSTEM before choosing the platforms to integrate and
+implement. . To help you understand and classify your needs starting from these
+aspects:
+build a large community of users through Rest API (ie APIs that use REpresentational
+State Transfer technology to manage / transfer data on the Internet): big players like
+Google, Twitter, Facebook etc. make available a wide range of free and
+easy-to-implement APIs to attract a large number of independent developers. In this
+case it is very important to have an API management solution that has very powerful
+analytical tools that allow you to understand how many are using the API and how, what
+for etc .;
+support the development of mobile apps through Rest API - In this case the API
+management solution becomes the place where all the development and distribution of
+APIs that allow the use of application services in mobility are coordinated. A solution that
+particularly stresses this aspect may be needed: some provide specific additional
+features such as push notification, geolocation etc;
+facilitate the use of different types of APIs - Over the last ten years, large companies
+have used, and continue to do so, both the Soap protocol (Simple Object Access
+Protocol) and the Rest technology, together with WebSockets (web technology that
+provides full-duplex communication through a single TCP connection) and to
+communication applications such as Amqp- Advanced Message Queuing Protocol or JMS-
+Java Message Service. In these cases it is necessary an API management solution able to
+govern this heterogeneity and to combine APIs with SOA-Service Oriented Architecture;
+build a solid B2B community around mission critical APIs
+they claimed to use B2B APIs almost twice as often as open APIs. If you find yourself in
+this situation, it is necessary to privilege the choice of an API management solution that
+allows the management of a wide type of API and that responds to data security needs,
+in terms of both privacy and integrity, very much stringent.
+act as an API provider who wants to derive direct value from application access - Some
+companies intend to use APIs as a new source of revenue. To date, few companies have
+taken this path, but some traditional service providers are extending their traditional
+offer to this area as well. In this case, the API management solution must integrate
+billing and payment management functionality.
+Data performance management must "tell a story for stackholders" to give a coherent
+view of data performance considering three levels:
+Physical. Enterprise architects (EAs) need dashboards that provide an understanding of
+the physical aspects of data (such as patterns, completeness, redundancy, etc.) and
+performance indicators (volume, processing errors, security, etc.). These dashboards
+help optimize resources, systems, data, and responses to issues and breaches so EAs
+can validate data integrity and consistency.
+Policy. Data governance teams need visualizations that indicate that data and its
+consumption comply with quality, security, privacy and usage policies. Data performance
+dashboards help CDOs and support data governance programs that drive new and
+changing data policies, keep them up to date, keep them secure, and prioritize
+data-driven assets and projects
+Impact. Master data managers need performance analytics that link to business metrics
+and key performance indicators (KPIs). It is from these analyzes that it will be possible
+to understand whether data management services are enabling or hindering business
+processes and customer experiences. By linking physical and strategic views of data
+conditions to O they can validate investments and propose or expand strategies
+demonstrating tangible ROI.
+All business processes can be divided into a sequence of business results where data and
+information drive decisions and actions, CDs of repeatable steps that need to be
+performed in the right order, by the right people and in a timely manner hence their
+automation it allows, on the one hand, a better orchestration of the different activities
+and resources involved, on the other hand, to monitor in real time the progress of each
+process (and several processes simultaneously). Instant notifications, alerts, etc. they
+make it possible to prevent any conflicts so that the project leaders or top managers can
+be involved only if absolutely necessary and therefore be focused on activities that are
+more valuable than mere control. Workflow automation also enables that important
+concept of "continuous improvement" that has become so crucial in a context of constant
+change and in which a large number of variables come into play.
+The most modern workflow automation platforms can be considered an extension of
+application integration platforms and can be integrated into an iPaaS or made available
+as a stand-alone platform. They are characterized by extreme ease of use thanks to
+drag-and-drop tools that allow you to design automated processes (thanks also to the
+use of pre-set templates) much more quickly than traditional solutions and analysts find
+that 20% of organizations that use these solutions see 15% savings on business costs.
+When we talk about application integration today, we cannot refer only to the
+technological aspect because in a digital world having an application heritage capable of
+responding (if not anticipating) the demands of the market is the very heart of the
+company. An enterprise application integration strategy must include the review and
+permanent integration of processes and people.
+permanent processes and people.
+Shared EAI strategy - LEVEL 0
+There are simple approaches to integration applied with an overall strategy with tactical
+choices that contribute to greater agility of an entire ecosystem. These are the three
+indications of INNOVABILITA:
+Define an Enterprise Application Integration architecture aimed at digital transformation:
+innovative digital technologies (for example machine learning or the management of
+data flows in IoT systems) create specific challenges, but also opportunities, which must
+then integrate in the right way with the applications legacy. All this keeping in mind the
+specificities of the individual industries: in choosing the service provider and EAI tools it
+is therefore first of all important to address those who have predefined integration
+platform models for their industry, but then, to also use the integration as an element of
+competitive differential, the ability lies in combining industry practices with one's own
+peculiar reality (in practice, not losing strategic functions to favor ease of integration
+resulting from an anonymous standardization).
+Establish the organization and the best processes for integration: poor process
+integration can only lead to poorly integrated applications and technologies and therefore
+collaborative teams with a governance of activity flows are essential:
+Define an agile organization ready for future evolutions and unpredictable today:
+separate teams, poor collaboration, hierarchical organization are the sworn enemies of
+the digital transformation which is instead declined on Agile methodologies where
+collaboration and agility are not limited to IT teams (the classic DevOps) but extends to
+the whole company and beyond: it is also necessary to be able to integrate large
+ecosystems and new technological platforms. Also in this case, the forms that the
+organization can take are different, there is no one-size-fits-all recipe and the skill lies
+precisely in shaping the concepts of agility on their specific reality.
+Shared EAI strategy - LEVEL 1
+The choice of the provider of enterprise application integration solutions and services
+must follow these guidelines:
+Start with a broad vision of integration, narrowing it only in the implementation phase of
+the initial step. Before starting the selection of the platform, you need to parameterize
+your integration needs (from the most urgent ones to be implemented immediately with
+the less pressing ones, delegated to subsequent but equally important phases) with the
+different integration features available (a non-exhaustive list includes: application
+integration, data integration, data quality, master data management, business process
+management, in-memory data management, cloud integration, IoT etc.).
+Look for the correspondence between the breadth of your vision and that of the vendor.
+Some vendors cover most features, some provide individual services without offering a
+cohesive vision; in any case it is important to cover the functions related to data
+integration.
+Make sure your service provider has deep expertise on the chosen integration platform.
+It seems trivial, but it is not so obvious because companies often have consolidated
+relationships with service providers and tend to keep them regardless of the technology
+chosen.
+APIs and microservices should always be considered as part of a broader vision of
+integration (even if they are not currently within specific needs).
+INNOVABILITA PRESENTS SMARTSUPPLYCHAIN®
+We called it SMARTSUPPLYCHAIN®: a multi-platform business integration blockchain as
+a service able to provide tools and services for remote training and assistance to enable
+programs for the complete digital transformation of company data and applications of
+the blockchain protocol of manufacturing processes strategic within the production
+chains of Italian manufacturing, agricultural and artisan quality for an international
+enhancement and promotion of authentic Made in Italy. An initiative that aims to provide
+the business intelligence tools to bring process innovation to Italian foodtech by enabling
+new biolonic ecosystems where biolacks develop new technological initiatives and
+applications with the common goal of acting to fight against counterfeiting and defeat
+the phenomenon of the Italian sounding of our Italian excellences exported all over the
+world starting from the first link in the value chain of the Italian supply chain: that of
+digital farmers.
+1 PHASE
+CONTROL OF THE DATA FLOWS OF THE HOP CHAIN
+RESPONSIBILITIES OF THE ECOSYSTEM PARTICIPANTS
+As blockchain projects almost always involve workflows between companies,
+collaboration within a smart chain is a critical success factor that needs to be considered
+when demonstrating value (PoV) which is our challenge. It is crucial for us to consider
+how the ecosystem will function and be governed as information in a blockchain project
+is generally shared among multiple participants in the supply chain. Ecosystems enable
+integration across business boundaries, enabling organizations to deliver products or
+services that they otherwise would not have the technological capabilities to deliver on
+their own, nor the understanding of the end customer to imagine. An ecosystem mindset
+allows organizations to go beyond what is traditionally possible for them within the
+boundaries of their vertically integrated operations, as well as the dynamic boundaries of
+a particular supply chain network - this has been our role to date. within the Innovation
+Operational Group.
+There are ecosystems that have very different requirements and governance: services
+are increasingly valuable as additional buyers and sellers participate in the ecosystem:
+ALGORAND can assign internationality to a temporary association of Scopo of
+Emilia-Romagna cooperatives that want to certify the manufacturing processes of the
+only Italian smart chain.
+Example
+SUSTAIN SAP's Blockchain-based industry alliance, brings together palm growers, palm
+oil converters, consumer goods producers, non-profit organizations and other
+stakeholders. The most successful ecosystems start small and expand. Getting off to a
+great start proved difficult and produced few successes. The most effective model is born
+within a micro-ecosystem [and our supply chain is] where a technical referent [myself]
+establishes the workflow and governance to produce rapid benefits, while allowing the
+future creation of the ecosystem. As the network matures, the network's governance and
+operations adapt to the evolving needs of participants, often with new participants and
+stakeholders as well. This is the innovation program foreseen in the next 2 years [the
+ATS must last at least 5 years].
+Interoperability between chains and data integrity is critical for us to make the model
+reproducible and scalable for other short supply chains. We have decided on a data
+standardization: for us it is important the value lies in the exchange of validated data
+between the participants in the ecosystem and the reliability of the records and allow
+participants to share information, all data must follow a form of standardization to
+ensure that they can be understood by all parties.
+Recent platform-level developments, on February 13, 2020, Hedera Hashgraph launched
+Hedera Consensus Service, giving developers an option to create verifiable timestamps
+and sort events for any application. Using this solution, developers can build their own
+application networks, consisting of a series of computers that allow privacy but use
+Hedera's public ledger trust as a consent engine. Since the solution can be used
+stand-alone or as a decentralized sorting service with other ledgers, such as Hyperledger
+Fabric, Corda or Ethereum, it creates new opportunities for blockchain interoperability.
+Managed blockchain (BaaS): For managed blockchain as a service (BaaS) solutions, the
+challenge lies in the hidden control that cloud providers have over the solution, limiting
+interoperability options. While most cloud providers claim that the blockchain services
+they are offering are open sourced, there are always some components in the services
+they are proprietary. This instills a certain vendor dependency for part of the blockchain
+architecture. It could be an ordering function hosted centrally by the cloud provider, a
+membership onboarding tool, a special access management method, or an innovative
+security management design - we'd like to find out if it can be done.
+An oracle is an agent that transfers external data to the blockchain platform for on-chain
+use. This is done using smart contracts that add information about real world events to
+the blockchain platform. Simple examples of useful data for importing temperatures,
+prices or information on hop processing processes. Once inserted into the blockchain,
+this data can be used to automate processes based on real world events. (For example,
+if a train is delayed, an insurance contract can automatically and autonomously deliver
+the compensation).
+Technically speaking, oracles are no different from other smart contracts. However, to be
+useful, oracles must be trusted. This could be because they are handled by a trusted
+third party or because of cryptographic attestations.
+Governance and legal documentation
+Governance of the data flow of a blockchain platform for us means that it is necessary to
+properly document the relationship between the blockchain network, the network
+operator and its participants through legally enforceable contracts. We would like to
+know what mechanisms through which the network operator can implement changes to
+the network or the requirements related to its participation. Objective and fair criteria
+should be established to govern access to the network and the suspension or termination
+of participants from the network. The use of digital identity systems in global supply
+chains is inherently transnational, which means that the parties operate in multiple
+jurisdictions. At the moment, national legal regimes adopt divergent approaches to
+legislate / regulate digital identity and not all countries have mechanisms for
+cross-border recognition of digital identity: the idea is to create digital IDs linked to a
+wallet on which to make convey the rewards of transactions on the blockchain [prof of
+Authority]. There is a level of complexity involved in reconciling internally held records
+with blockchain data. This can be particularly relevant if transactions are regulated
+because there are specific regulatory requirements that apply to regulated entities on
+keeping accurate records and records. We use blockchain technology to assess whether
+the data remains unchanged and valid, but the possibility of legally storing data on the
+blockchain to meet legal or regulatory requirements (e.g. archiving requirements)
+LEGAL DOCUMENTATION FOR ALL PARTICIPANTS
+It is important that blockchain network participants consider a number of issues,
+including the legal structure, accountability and governance model of a blockchain
+network, and clearly establish all rules, rights and obligations in the legal documentation.
+Clear legal documentation is essential to ensure participants have clarity on how the
+blockchain network works. Clear legal documentation is essential to ensure participants
+have clarity on how the blockchain network works.
+A blockchain solution is built to be a core component within a larger system where it
+works in conjunction with other technologies. For example, tools such as application logic
+to implement access controls can be employed to complement the capabilities of the
+blockchain itself. These additional technologies are required components of the
+technology stack in a blockchain solution to achieve data protection or integrity often
+mistakenly believed to be a key feature of the blockchain. We must establish the ideal
+solution for an organization that does not have to demonstrate validated data in real
+time, it does not need to be validated in a short time.
+Main design options for data privacy of a blockchain solution
+These architectures may include additional databases or storage mechanisms that
+communicate with the blockchain for data privacy. The data can still be kept entirely
+on-chain or stored in an off-chain database. In the latter case, the data is stored as a
+hash on the blockchain and the raw information is stored securely in an off-chain
+database.
+Option 1: Public or private blockchain with cryptography. When confidential information
+is stored in raw format on the blockchain, it must be encrypted. The decryption keys are
+then shared via another secure channel.
+8
+Option 2: Blockchain publishes with cryptographically hidden, but mathematically usable
+information on its own via methods like ZKP and homomorphic cryptography.
+Option 3: Private blockchain with the necessary permissions and role-based access
+controls are sufficient to provide the required confidentiality. The data can be recorded
+as raw data.
+Option 4: The private blockchain is paired with a public blockchain to store raw data or
+documents while the public blockchain only stores hashes. The private blockchain is
+configured to provide the required confidentiality.
+Option 5: An ordinary database is associated with a public or private blockchain to store
+raw data or documents while the public blockchain only stores hashes. The database and
+microservices that publish from the blockchain to the database are configured to provide
+the necessary confidentiality.
+Considerations for each design option
+Option 1: Functionally realize both confidentiality and usefulness of the data. The
+downside is that a blockchain's basic key generation function is insufficient to implement
+meaningful access controls. Rather, a solution must also consider secure key storage,
+key confidentiality status monitoring, key revocation, and key deletion. To determine
+which keys can decrypt information shared on the blockchain across multiple types of
+data payloads, a network requires sophisticated key management and coordination
+between data policies that are often dictated by the data field level contract. Group key
+management can remove some of the complexity of this business, but the overall key
+management process simply requires investment and clear communication between
+participants prior to joining the network.
+Option 2: Take advantage of promising technologies that are not yet easily scalable.
+Zero-knowledge proofs add several seconds of latency to each transaction to which it is
+applied. Full Homomorphic Encryption (FHE) is turning into the most powerful and useful
+encryption technology for blockchain and supply chain, but other technologies may be
+better equipped to deliver value today.
+Options 3 and 4: Check more closely the admission of members in a blockchain network.
+These options therefore have a greater ability to manage identities. If not coordinated
+through key management, data access will need to be done on an authorization list
+before granting such access. That list, in turn, needs to be maintained across blockchain
+nodes and freely verified by node owners to ensure trust. The administrative effort
+involved could make these approaches prohibitive.
+Option 5: Pair a public or private blockchain with an off-chain database that is part of a
+member's node. The blockchain will only save the data hash. The system must be
+designed in such a way that when the hashed data is queried, it can be pulled from the
+9
+off-chain database and verified with a key management system that is part of the
+blockchain. Those who should have access to the data will then be able to take action in
+this regard.
+When implementing data protection measures, it is important that participants in a
+blockchain network are able to control and control access rights to their data, regardless
+of the overall governance structure of the network. For these reasons, role-based access
+controls and key management are far more reliable than specific knowledge tests of new
+algorithms that still require trust in AI algorithms.
+Case study: a manufacturing conglomerate
+How should data protection technologies be applied in a real use case?
+The challenges
+To see how technologies can be adopted on a curve or combined for optimal results, let's
+consider through a hypothetical use case in collaborative planning. This is one of the
+most fertile reasons for achieving efficiencies in the supply chain and one of the most
+difficult to achieve for privacy reasons.
+Suppose a large heavy manufacturing company has historically overstated its predictions
+to its plastics supplier to account for potential emergency orders. The supplier became
+aware of this practice after years of accumulating excess inventory because the
+manufacturing company in no way buys close to its forecast levels.
+One year, the supplier decides to significantly cut the resin supply from its supplier, a
+Tier 2 supplier to the manufacturing company. The supplier cut too much and could not
+meet the manufacturing company's demand that year.
+In an effort to avoid supply disruptions, the manufacturing company would like to access
+data related to the plastic supplier, also the resin supplier, available inventory and
+production rate on a more frequent basis. The plastics supplier would like to know the
+company's inventory level, consumption rate, and demand forecast as often as possible.
+Neither party has any incentive to share this information with each other given how it
+will affect prices and trading leverage. The question then arises as to what can be done.
+If the manufacturing company simply knew the real-time delivery schedule of the resin
+to the plastic supplier and the plastic supplier, there could be an incremental
+improvement in planning. Perhaps the resin supplier is not ready to share any more
+information right now, so the logistics information goes on the blockchain, but other data
+remains off the chain.
+Application of the toolkit
+On the other hand, another solution could be one where all parties are comfortable
+placing just-in-time (JIT) inventory data on the blockchain, but only their immediate
+counterpart has access to the information. Additionally, the counterparty may have
+access for the purpose of executing smart contracts or algorithms with the data, but the
+counterparty may not see the underlying data itself. Using encryption in conjunction with
+key management is one of the solutions. This native approach is carefully scrutinized and
+reaches good maturity.
+Otherwise, with role-based access controls (RBAC) on the blockchain, the parties are
+able to. They can then engage in collaborative planning with obfuscated but usable data
+for valuable data analysis. With both of these technologies, sensitive data can remain
+hidden, but it isn't exactly encrypted.
+If companies are dissatisfied with RBAC and key management but still want to use
+cryptography, more sophisticated means will have to come into play. If the
+manufacturing company wants to check the resin stock level at the plastic supplier, when
+the level drops below 5,000 liters, the manufacturing company will ask the plastic
+supplier to order more.
+A zero-knowledge test can certify to the manufacturing company that this threshold has
+actually been exceeded without revealing exactly how much resin the plastic supplier
+remains. Otherwise, fully homomorphic encryption allows all parties to place their data
+on the blockchain, keep it encrypted, and simply run any scheduling algorithms on the
+encrypted data.
+One drawback is zero or fully homomorphic knowledge-proof cryptography will
+incorporate complex software that requires additional engineering for maturity.
+Furthermore, these techniques can consume more computational power and this can
+represent a bottleneck if the system is expected to handle a large amount of data.
+Data protection strategies
+The following checklist is an overview of the high-level considerations your organization
+will face in addressing data protection concerns. It collects the key points presented in
+this module, and more detailed overviews in the focus areas can be consulted as you go
+through this checklist.
+As data protection considerations will have a pervasive impact on the final
+implementation of the project, these questions should be considered at the beginning of
+the timeline of a blockchain deployment, later in the design phase, after the fundamental
+value proposition and the use mechanics the case has been determined but before the
+use case starts developing the code. Data protection considerations should be revisited
+on-going in an organization as external and internal requirements, rules and regulations
+change.
+Which supply chain partners need access to certain information to fulfill their roles on the network?
+Who has write permissions? Who has the permission to read? How are these permissions
+established (who would determine who has access to the blockchain)? At what level of
+access are users granted?
+How will the protocol, framework or platform protect privacy and data confidentiality?
+Which data protection approaches are best suited?
+When the confidentiality approach is adopted, what are the potential drawbacks, barriers
+and risks?
+Is encryption-based protection adequate for data protection or is there a certain
+sensitivity even in sharing encrypted data with unauthorized parties?
+How to overcome such drawbacks, barriers and risks?
+How is identity managed to meet data protection needs?
+What sets of policies are needed for the governance and control of the blockchain network?
+How would these policies interact with individual contractual arrangements between
+network participants for the distribution and use of data?
+How often do data standards change and what level of flow does it cause for the data
+stored in the chain?
+How long should the data be available and how does this affect storage and
+obsolescence processes?
+What data access control requirements must be integrated into the system?
+Protocols are rarely deployed without middleware or an application layer on top of them,
+each of which will likely have their own data privacy functionality. Where will the data
+privacy features be located?
+Is the overall system security engineering designed to ensure data confidentiality? Many,
+if not most, of the blockchain's purported functionality and capabilities are specific to
+design and implementation. Assumptions should not be made that because one design
+implementation includes a particular feature, others will share that feature as well.
+3] CREATION DAO HOP
+The idea we are working on is the online creation of a DAO [currently we will set up a
+Temporary Association of Purpose] online digital organization that operates through the
+implementation of pre-coded rules maintained on a blockchain platform. The
+decentralized nature of DAOs presents unique questions that did not need to be
+addressed previously as traditional entities were centralized and had a recognizable legal
+structure and form.
+The status and legal liability attached to a DAO will depend on the structure of each DAO
+and the jurisdiction in which it is incorporated. On a practical level, the "management" of
+DAOs is conducted automatically, which means that it can be difficult to decide who is
+responsible for the DAO in the event of a violation of law or breach of contracts. This risk
+should be mitigated if the DAO is structured as a legal entity as registration as a
+corporation, partnership or other legal entity typically requires the appointment of
+directors / partners etc. That they would be held accountable for the company's actions.
+However, if the DAO is not structured as a legal entity and instead exists only as
+computer code, it is not clear who is responsible for the DAO - and perhaps this solution
+is the most viable in the first course
+3] HOP TOKENIZATION
+Our design involves a blockchain solution, the referent's financial reporting process can
+benefit from a reliable blockchain to help automate tasks such as reconciliation with
+counterparties in use cases for commercial financing, product traceability or payments to
+service providers. transport.
+It is important to establish what the accounting treatment will be for blockchain-based
+transactions before the data retention and data collection requirements of the system
+are finalized.
+The assessment we need to do together is the design and execution of checks for a
+reconciliation, as well as other necessary accounting and financial reporting. In the
+context of the financial statement audit we must consider whether the external auditor
+also has the blockchain tools and skills to conduct an effective audit considering the
+evidence that can be obtained from both on-chain and off-chain sources.
+Reliability of the blockchain system and the network of nodes
+The reliability of a blockchain system is essential for the reliable recording and
+immutability of data (including digital assets) recorded in the blockchain. When it comes
+to reliability, it is important to recognize that management is responsible for the design
+and operation of the blockchain, including the internal control system.
+When implementing a blockchain solution, companies in a supply chain will need to
+assess the risks and adequacy of controls on all aspects of the blockchain solution, not
+just the technology they are implementing internally to participate in the blockchain.
+Interested parties and considerations relevant to the assessment of financial information
+This could include the risks associated with the blockchain's accounting system or the
+way the blockchain network operator carries out its responsibilities. Such a third party
+risk assessment is what is up to us at this time. Its controls to ensure that these risks
+are mitigated. Controls on the blockchain system come from numerous sources at all
+technological levels - network of nodes, services and application layers, etc. - but will
+generally be consolidated with the organization or other entity that manages the
+authorized blockchain. Consider whether management and auditors will need to access
+custom nodes or nodes to perform internal control tasks and procedures.
+These controls, including those in a shared internal control system, typically fall into the
+following categories:
+Internal controls at the organization node level, especially logical access controls and
+validation and approval of data entry, including private key management
+Internal controls of the entity that manages the authorized blockchain, in particular
+controls on how the nodes of the blockchain participants are added or removed, the
+reliability of the "oracle" that provides off-chain data and checks on the integrity /
+security monitoring of the blockchain
+Internal controls inherent to the blockchain technology itself (eg Consensus Mechanism),
+including cryptography
+General IT Controls (GITC) that support the nodes in the main node (blockchain network
+operator) and the layers of the participating nodes (participants in the business
+blockchain network), including smart contracts
+Management will typically need to identify and evaluate Service Organization Controls
+(SOC) reports (e.g. ISAE 3402, SOC1) as part of evaluating internal controls on financial
+statements because there are typically numerous third parties within a shared system
+internal control officers responsible for the controls discussed above. For example, a
+global supply chain system (blockchain network operator) using a cloud provider may
+need to provide its users with a SOC report that includes assessment of controls at the
+cloud provider and others within the stack of technology solutions.
+Because the external auditor considers internal controls, they will need to evaluate
+controls on the blockchain system itself, as well as controls on the organization's
+node-level implementation to which they are external auditors. The external auditor will
+typically test internal controls relevant to certain risks when auditing blockchain solutions
+in the context of a financial statement review. This is because substantial evidence alone
+may not be sufficient to address certain risks when a blockchain solution is relevant to
+financial reporting.
+A SOC (Service Organization Controls) report
+Data stored in authorized blockchains (those that could be implemented for corporate
+supply chain networks) are highly dependent on controls inherent in the operation of the
+blockchain digital ledger or dependent on administration by the network operator of the
+blockchain node and the 'technological infrastructure is based on. Therefore, a
+company's management (and its external auditors) will look for evidence that these
+controls are designed and functioning effectively and that they are generally met through
+the transmission of SOC (Service Organization Controls) reports.
+Those responsible for each participant's financial reporting process typically view a
+service organization's material controls as a component of their internal control system.
+In this example, an assurance engagement is conducted together or separately for each
+layer of the stack and their report is passed on to the management (and subsequently
+their auditor) of the participant in the blockchain business network.
+In Scenario 1, separate auditors perform their own control procedures for each level of
+the stack, and each SOC report will include the free User Entity Controls (CUEC) that
+management at the above level must consider in the design of its controls.
+In Scenario 2, a single reviewer performs their own procedures for each level of the
+stack and incorporates the results into a single SOC report (also includes CUEC). This
+would typically be the scenario if the blockchain network operator is running the main
+node from their local technology.
+This is a model that summarizes the separate reviewers or a single reviewer checks each
+layer of the technology stack and summarizes it into a SOC report for the blockchain
+node network participant reviewer.
+Our reference model is POLKADOT
+Polkadot is an open source project founded by the Web3 Foundation.
+Web3 Foundation commissioned five teams and over 100 developers
+to create Polkadot
+True interoperability
+Polkadot allows cross-blockchain transfers of any type of data or asset, not just tokens.
+Connecting to Polkadot gives you the ability to interact with a wide variety of blockchains in
+the Polkadot network.
+Economic and transactional scalability
+Polkadot provides unprecedented economic scalability by allowing a common set of
+validators to secure multiple blockchains. Polkadot provides transactional scalability by
+distributing transactions across multiple parallel blockchains.
+Easy blockchain innovation
+Create a custom blockchain in minutes using the Structure Substrate. Connect your chain to
+Polkadot and get interoperability and security from day one. This ease of development helps
+Polkadot's network grow.
+Forkless and future proof
+Polkadot can upgrade without hard fork to integrate new features or fix bugs. This ability
+allows Polkadot to easily adapt to changes and update as better technologies become
+available.
+Safety for all
+Polkadot's new data validity and availability scheme allows chains to interact with each other
+in a meaningful way. The chains remain independent in their government but united in their
+security.
+User-driven network governance
+Polkadot has a sophisticated governance system in which all stakeholders have a say.
+Updates to the network are chain-coordinated and implemented autonomously, ensuring that
+Polkadot's development reflects community values and avoids stagnation.
+Governance
+Polkadot token holders have complete control over the protocol. All privileges, which on
+other platforms are exclusive to miners, will be granted to participants in the Relay Chain
+(DOT owners), including the management of exceptional events such as protocol updates
+and corrections.
+Stake out
+Game theory incentivizes token holders to behave honestly. Good actors are rewarded by
+this mechanism while bad actors will lose their participation in the network. This ensures that
+the network remains secure.
+Bonding
+New chain guards are added by linking tokens. Obsolete or not useful parachains are
+removed by removing the tied tokens. This is a form of proof of the stakes
+WE ARE API SUPPORTERS3
+Application Programming Interface in the business world of web 3.0 represents a strategic
+component of digital transformation. This aspect strictly related to software programming
+allows you to simplify the dialogue between one application and another, avoiding
+redundancy and useless. With decentralized applications starting to provide meaningful
+services in areas such as decentralized finance in food tech and supply chain in foot tech,
+there is a growing need for these applications to receive data or trigger events using
+traditional web APIs. However, the solutions of a web 3.0 market fail to adequately address
+API connectivity, a problem due to an excessively generalized and misleading approach.
+The API3 will stimulate the biolonic ecosystem to a collaborative incnetive to create a new
+generation of native blockchain, decentralized or dAPI APIs. DAPIs are composed of first
+party oracles managed by API providers, and therefore are more secure and cost-effective
+than alternative solutions that employ intermediaries. At the center of will be the mechanisms
+of governance, security and acquisition of the value of this initiative the API3 token. The
+token stake will grant its holders full governance rights via API3 DAO along with all
+associated rewards. The staked API3 tokens will be used as collateral for the on-chain
+insurance service which will provide quantifiable and reliable security guarantees for dAPI
+users.
+These mechanics will eliminate the need for a central authority at the ecosystem level. As a
+result, the API3 project will enable smart contract platforms to leverage APIs for building
+meaningful applications in a truly decentralized environment with minimal trust. We are
+witnessing the emergence of decentralized applications capable of interacting with the real
+world, corresponding to the value they capture. The most obvious example of this
+phenomenon is the recent increase in value due in DeFi (decentralized finance) with more
+than $ 8B of total value locked in various applications as of September 2020.
+A DeFi application typically requires pricing resources to be provide its smart contract
+platform via a data feed. The data feed facilitates the application's interaction with the real
+world, ultimately enabling it to provide meaningful services such as derivatives trading and
+loans. What is happening right now is not just the rise of DeFi, but the rise of decentralized
+applications that can meaningfully interact with the real world, and DeFi is just the tip of the
+iceberg. Businesses use a wide variety of services via web APIs, ranging from providing
+asset price data to performing traditional financial transactions. It is critical for the
+decentralized world to design applications to access the type of services that the Web APIs3
+interact with in the real world, however these APIs are not natively compatible with
+decentralized applications. Interfacing solutions based on existing intermediaries are
+centralized, insecure and expensive; and are only used for lack of a better alternative. With
+API3 we are interested in the concept of API to take the next evolution of the web to meet
+the inevitable decentralization requirements of Web 3.0 without using third party
+intermediaries. We will use the term dAPI to refer to this new generation of decentralized
+APIs.
+A dAPI is a secure and cost-effective solution to provide traditional API service to smart
+contracts in a decentralized way. It consists of the following elements: multiple APIs, where
+the term API does not just refer to a technical interface, but a service provided by a
+real-world company; a decentralized network of first party oracles, i.e. oracles managed by
+the vendor API themselves; a decentralized government entity to oversee the network of
+oracles. API3 is a collaborative effort to build, manage and monetize APIs on a large scale.
+To achieve this in a fully decentralized way, participants' incentives will be reconciled through
+the governance, security and value acquisition utilities of the API3 token. The project will
+have a completely open and straightforward governance model, where any API3 token
+holder will be able to stake for direct voting privileges in the DAO API3. Additionally, stakers
+will receive a portion of the API revenue, in rewards for stock staking and any additional
+benefits that the DAO may decide in the future. Pointed API3 tokens will support an on-chain
+insurance service as collateral to provide API users with quantifiable and reliable security
+assurances. it cannot produce a sustainable ecosystem. Instead, let's start by recognizing
+that the. API providers are the engine of this project. Therefore, they will not be abstracted
+far, but rather be attributed and compensated so that their interests are fully aligned with the
+interests of the broader API3 ecosystem. Through levels of gamification API providers will be
+incentivized to adopt their services in decentralized applications by providing free testnet
+calls for their paid APIs and getting cash rewards for hackathons. Cultivating this
+cooperation further will be one of the main sources of strength of API3 and of those who
+share the development of this exponential technology as we do. Decentralized networking
+solutions employ third party oracles because it is often not feasible for API vendors to
+manage their own nodes. This position of the third-party oracles are expensive and the
+intermediaries constitute an additional attack surface. To eliminate these problems and get
+API vendors to engage in the ecosystem, API3 data feeds will consist of first party oracles
+managed by API vendors.
+This will be made possible by Airnode, a completely serverless node designed to require no
+know-how, maintenance or maintenance from the API provider. The resulting dAPIs will be
+inexpensive and protected against attacks by a third-party middle layer. In the event of a
+malfunction, the dAPI user will be able to claim compensation at a pre-negotiated amount
+from the staking pool. Kleros, a dispute over resolution protocol chain, will be used to decide
+whether the credit should be paid based on the proof of work presented. This incentivizes
+stakeholders to actively participate in governance to ensure that dAPIs are managed
+transparently and in a way that minimizes security risks. Successful governance to generate
+revenue from dAPI by avoiding errors that will result in payment of compensation claims and
+rewarded API3 Tokens, which will create a positive feedback loop that will continuously
+improve governance.
+DAPIs are rest networks The REST architectural model is replacing SOAP - Simple object
+access protocol among the protocols for the creation of Web services and, in particular, for
+the exchange of messages between software components, it establishes a series of rules
+thanks to which consumer server and service provider can talk to each other.
+SOAP is the extensible and decentralized operational structure that can operate over various
+protocol stacks for computer networks by providing remote procedure requests via
+messages. Remote procedure calls can be modeled as the interaction of several SOAP
+messages.
+The DAO API3 creates, manages and monetizes dAPIs on a large scale. Decentralized
+applications pay a subscription fee to access a dAPI. Holders of API3 tokens participate in a
+pool to receive awards and voting rights at the DAO. This staking pool is used as a
+guarantee for an on-chain insurance service that provides API users with a quantifiable level
+of security. API3 enhances existing solutions in terms of decentralization, cost efficiency,
+security, transparency and ecosystem growth potential.
+SDK (acronym for Software Development Kit) means a suite of tools that can be used to
+build programs and applications for different operating platforms (from operating systems or
+firmware to IoT systems), hardware platform (computer, console videogames, e-learning).
+Thanks to an SDK, the developer's work is facilitated as it will be possible to find
+pre-compiled libraries or modules that avoid the rewriting of many lines of code. The SDKs
+can be very different from each other from the point of view of the size and technologies
+used, but they all have fundamental tools among which mainly:
+a compiler useful for translating the source code into an executable;
+API3 (so that a module or software can interact with another developed for another web 3.0
+platform); the documentation on the programming language for which the SDK itself was
+developed and information on the licenses to be used to distribute programs created with the
+SDK.
+To understand how strategic API3 are and why they are fundamental in supporting digital
+transformation and business and in what we have defined API3ECOOMY [THE
+SMARTSUPLYCHAIN® is just a model], it is sufficient to refer to the data of over 14
+thousand public APIs used by the various services and commonly used software. In addition
+to those of Facebook, probably the best known APIs are those provided by Twitter, Google,
+eBay or Amazon. Google, for example, the Mountain View company provides the Google
+Maps Api so that any developer can use them to build custom maps, to integrate them into
+their websites and offer georeferenced search services or even use them in app for device
+mobile and so on. In recent months it has been estimated that 75% of traffic on Twitter and
+65% of that on Salesforce.com originated from APIs, but any company that enters the world
+of API3ECONOMY has to deal with a set of APIs aimed at integration of new services.
+The underlying objective of DAO INNOVABILITY is to incentivize the Italian foodtech and
+edutech ecosystem from the needs of mobility and cloud, more and more companies
+through APIs tend to share their information resources with other developers (internal or
+external) to ensure that its assets generate a further expansion of the reach, revenues and
+user loyalty of an Italian market for a new Italian economy: ITALIAPI3
+Each Italian ecosystem uses and shares mobile applications, without having to alter or
+modify existing data and services or efficiently manage and integrate cloud and on-premise
+services, monitoring the use of corporate APIs and protecting them are two strategic
+aspects. The risk is a cascade effect that one containing an anomalous or infected script can
+generate on all business applications and systems that interface with it: our task is to
+guarantee our ecosystem that the underlying infrastructure is functional, efficient,
+implementable, interoperable via API3 able to defend itself from possible [future] cyber
+attacks because the value of our Italian production data in the next 10 years will increase
+exponentially because it will be the first data relating to the agrifood products of excellence
+of the real Made in Italy of 4 industrial revolution that could be defined TOKENOMICS API3.
+If a hacker manages to introduce a malicious script into the main database and our
+ecosystem API3 code fails to detect that script and clean the data before it is sent to a
+request from another Application programming interface inserted into a third parties, this
+malicious script can be sent to any linked application. Potentially, the malicious script could
+compromise the data of thousands of users, very often unaware of what is happening to their
+sensitive information: WE CAN'T ALLOW THAT TO HAPPEN. ALL PROCESS INNOVATION
+IS BASED ON THE AUTHORITY OF THE DATA SHARED ON THE BUSINESS UNIT PLATFORM
+The use and management of APIs3 will be essential to quickly and effectively create new
+applications, the proliferation of APIs inevitably involves management and governance
+problems. We want to create the first Api3 management multiplatform with the aim of
+monitoring, securing and optimizing the use of the Application programming interfaces by
+means of access control, the setting of security policies, thus allowing to manage, in the
+case of our business Italian unit platform, paid access to APIs, payment that can be direct or
+made based on a revenue share (for example, using PayPal's, developers allow their
+interlocutors to pay for an item, while PayPal receives a direct percentage of each sale).
+ALL OUR PROCESS IS BASED ON THE VALUE CHAIN THAT MUST HAVE A SYSTEMIC
+APPROACH TO THE GOVERNANCE AND COMPLIANCE OF ALL IT INFRASTRUCTURE
+MODEL OF PROCESSES TO BE DIGITIZED ON TRUST.IO FOR THE HOP CHAIN
+LIST OF PROCESSING IN THE HOP CHAIN
+November and December 2020
+1. ridger to cover the hops and bring soil to the plants
+2. vegetative break, possibility to bring manure / soil improvers
+January and February 2021
+3. shredding of the grass and cleaning of the field with francizzolle, rotary harrow, cutter and
+shredder
+4. Biological antiperonospera ground treatment
+March 2021
+4. Cutting (cutting machine) of hops at the root base
+5. putting on iron wires for training
+April 2021
+6. Hop training
+7. Organic peronospera cover treatments
+Training of hops to scale by variety
+May 2021
+9. Training of hops to scale by variety
+10. Biological peronospera cover treatments
+Water irrigation
+June 2021
+12. Fertigation with nutrients
+Organic peronospera cover treatments and nutrition foliar treatments
+July 2021
+14. Fertigation with nutrients
+15. Organic peronospera cover treatments and nutrition foliar treatments
+Biological treatments against borer (insect)
+August - September - October 2021
+17. Graded picking of hop varieties
+ITALIAN HOPS COOPERATIVE [GOI LEADER]
+August - September - December 2021
+1. Graded harvesting of hop varieties by mechanical means
+2. Defoliation (separation of cones from the vegetative part)
+3. Drying
+4. Samples for analysis
+5. Pressing and packing, batches
+6. Storage in cell at 4 ° C
+7. Organoleptic analyzes (alpha and beta acids, essential oils, eventual residues if they are
+of interest to the customer) in authorized laboratories (CA TEBANO]
+8. Packaging of dried flowers in ATM (carbon nitrogen), labeling
+Certification by an authorized body
+POTENTIAL ELEMENTS OF THE PLATFORM BUSINESS UNIT
+2] EASY REDMINE as Project Management 4.0 data management software
+Easy Redmine runs using the open source Redmine system as its engine. The creators of
+Easy Soft participated in the development of Redmine, creating in 2007 Easy Redmine as a
+system that optimizes and makes accessible even to non-experts, the functionalities and
+management system that underlies Redmine. Easy Redmine 2018 is a combination of new
+mobile design with useful plugins and features that will make project management more
+enjoyable, improve communication, user experience and save time.
+4] TAKAMAKA Takamaka has chosen the Java language to program the entire blockchain
+infrastructure: from the node to the smart contracts, the only thing you need to know is Java.
+Thanks to its usability and familiarity with the code of use, Java is a friendly language and
+the approach for those who start ideas and projects in blockchain is accessible to most
+developers and companies. Java does not require any particular development environment.
+Thanks to this choice, it was possible to apply to the development of blockchain software all
+the tools to report bugs in writing and predict the execution results, which are currently
+already part of our blockchain. For more than 20 years Java has always been a favorite
+programming language and despite its age, it remains by far the most popular language.
+This is why we have decided to use it as the basis and the only language of the entire
+blockchain infrastructure.
+5] INTEROPERABILITY WITH BLOCKCHAIN SUPPLY CHAIN PLATFORMS
+POLKADOT - ALGORAND - ETHEREUM - FOODCHAIN - IBM FOODTRUST -
+TRUSTCHAIN - ORACLE
+FINAL PRODUCT TO BE DELIVERED WEBAPP - frontend interface - backend - QRCODE
+2021 DEVELOPMENT UPDATE
+Supermarket chain Carrefour is adding Smartscan to its Belgian app, which allows
+customers to scan and pay for their in-store purchases using their smartphone. This
+eliminates the use of a handheld scanner and therefore reduces the risk of the coronavirus
+spreading.
+Priority
+The introduction of Smartscan was planned, but was accelerated by the coronavirus crisis: in
+these times it is essential that customers keep their distance from each other and from
+supermarket employees, avoiding physical contact as much as possible. The new feature
+allows the customer to scan their purchases using their smartphone and use the resulting
+code in an automatic checkout or show it to a cashier during a regular checkout.
+"Security and ease of use are the two driving forces that have enabled us to implement
+Smartscan in less than a month, e-commerce and digital project manager Jean-Philippe
+Blerot said in a press release. The new functionality can be used in hypermarkets starting
+this week, smaller Carrefour markets will have to wait until the following week.
+https://www.retaildetail.eu/en/news/food/carrefour-adds-smartphone-scanning-app
+THE PRESENT?
+With INNOVABILITA we have started the intereoperability test with the interoperability platform that tries to answer the blockchain trilemma:
+SECURITY SCALABILITY AND DECENTRALIZATION
